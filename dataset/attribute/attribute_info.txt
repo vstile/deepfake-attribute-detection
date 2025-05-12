@@ -1,0 +1,135 @@
+/* *************************************************************************** */
+/*                                                                             */
+/*   XXXVIII PhD Course on Big Data & AI @ Mercatorum University               */
+/*                                                                             */
+/*   By: vstile <vittoriostile@gmail.com>                                      */
+/*   Link-in-bio page: https://linktr.ee/vstile                                */
+/*                                                                             */
+/*   Created: 2024/10/26 by vstile                                             */
+/*   Updated: 2025/05/12 by vstile                                             */
+/*                                                                             */
+/* *************************************************************************** */
+
+This file defines attributes for analyzing video content for my PhD research project. It includes boolean attributes (e.g., is_real, is_alone) and categorical descriptors (e.g., gender, expression, ethnicity) to characterize subjects, movements, and visual features in videos.
+
+attribute	value_type
+--------------- ----------
+video_name	text						
+is_real		bool										
+is_alone	bool						
+is_ears_visible	bool						
+is_forehead	bool						
+is_glasses	bool						
+is_moving	bool						
+is_pan_video	bool						
+is_shaky_video	bool						
+is_talking	bool
+
+attribute	value_list
+--------------- ----------
+gender		FEMALE, MALE					
+action		HUGGING, STILL, WALKING				
+ethnicity	AFRICAN, ASIAN, MIXED, WHITE, OTHER		
+expression	ANGRY, DISGUSTED, HAPPY, LAUGHING, SERIOUS, SURPRISED	
+hair_color	BLONDE, BLACK, BROWN, GREY, LIGHT, BROWN, RED, OTHER
+hair_lenght	BALD, LONG, PONYTAIL, SHORT			
+position	SITTING, STANDING, UNKNOW					
+
+attribute values table
+--------------- ------- ------- ------- ------- ------- ------- ------- ---------
+attribute	value	value	value	value	value	value	value	value
+video_name	text						
+is_real		bool						
+gender		FEMALE	MALE					
+action		HUGGING	STILL	WALKING				
+ethnicity	AFRICAN	ASIAN	MIXED	WHITE	OTHER		
+expression	ANGRY	DISGUSTED	HAPPY	LAUGHING	SERIOUS	SURPRISED	
+hair_color	BLONDE	BLACK	BROWN	GREY	LIGHT BROWN	RED	OTHER
+hair_lenght	BALD	LONG	PONYTAIL	SHORT	UNKNOW		
+position	SITTING	STANDING	UNKNOW				
+is_alone	bool						
+is_ears_visible	bool						
+is_forehead	bool						
+is_glasses	bool						
+is_moving	bool						
+is_pan_video	bool						
+is_shaky_video	bool						
+is_talking	bool							
+
+info
+------------------------------------------------------------------------------
+
+The is_real attribute is set to TRUE if all frames in the video are authentic. If there is any alteration, even for just a few frames, it is considered fake, and the value will be FALSE.
+
+The num_subjects value refers to all people appearing in the scene including the main actor.  The ethnicity is based on the list of ethnic groups used for census by the UK Government:
+
+ASIAN or Asian British
+- Indian
+- Pakistani
+- Bangladeshi
+- Chinese
+- Any other Asian background
+
+Black, AFRICAN, Caribbean or Black British
+- African
+- Caribbean
+- Any other Black, African or Caribbean background
+
+MIXED or multiple ethnic groups
+- White and Black Caribbean
+- White and Black African
+- White and Asian
+- Any other Mixed or multiple ethnic background
+
+WHITE
+- English, Welsh, Scottish, Northern Irish or British
+- Irish
+- Gypsy or Irish Traveller
+- Any other White background
+
+OTHER ethnic group
+- Arab
+- Any other ethnic group
+
+ Ref. https://www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups/#exceptions, I prefer to use AFRICAN, instead of BLACK to create uniqueness (BLACK is used as hair_color value). 
+
+If hair_lenght is BALD, the hair_color will be OTHER by default.
+
+The is_alone attribute indicates whether there is a single subject in the scene (the primary target actor of manipulations) or if other subjects appear. If another subject appears in the scene, even if only for a few frames, the value will be set to FALSE.
+
+The is_ears_visible attribute indicates if the subject’s ears are visible. If at least one ear appears, even for just a few frames, the value will be TRUE.
+
+In general, all the boolean attributes (except for is_real) are considered TRUE if the condition occurs at any point in the video, even if only for a few frames.
+
+This work was supported by the European Union under D.M. n. 352/2022 and PwC Business Services SRL. Special thanks to the research teams at UCA and Universitas Mercatorum for their continued collaboration.
+
+If you use this code or data in your research, please cite:
+
+> Vittorio Stile, Roberto Caldelli, Gabriel Guerrero-Contreras, Sara Balderas-Díaz, Inmaculada Medina-Bulo,  
+> _Enhancing DeepFake Detection with Semi-Supervised Facial Attribute Labeling: A Hybrid Learning Approach_, 2025.
+
+/*                          May the Force Be with You                          */
+
+/*
+**                                `-osyyyyso-`
+**                             `.sd+/dmmmmd/ods.`
+**                           `odo/dm++mmmm/omd/od+`
+**                          -hmmmo/md-ymmy:mm/ommmh-
+**           ``./o++:---:///++smmdsdmhhmmhdmdsdmms++///:---:++o/.``
+**             `.:/ohmmmmmmmmmh+////odmddmdo////+hmmmmmmmmmho/:.`
+**               `:+//++oooyms./++++/.+::+./++++/.smyooo++//+:`
+**                 `:+ss//::mh+-/so./s.hy.s/.os/-+hm::/oss+:`
+**                    `-///.dmdyoooss/-ys-+ysoooydmd.///-`
+**                         `/d:smmd/+hdyydh/+dmmmmd/`
+**                           -ssdm//yyyyyyyy:ommmy-
+**                            `:hd.yyyyyyyyys-mh:`
+**                              `+hmmmmmmmmmdh+`
+**                                `/osyyyyso/`
+**
+**          ____    ____   _______.___________.__   __       _______
+**          \   \  /   /  /       |           |  | |  |     |   ____|
+**           \   \/   /  |   (----`---|  |----|  | |  |     |  |__
+**            \      /    \   \       |  |    |  | |  |     |   __|
+**             \    / .----)   |      |  |    |  | |  `----.|  |____
+**              \__/  |_______/       |__|    |__| |_______||_______|
+*/
