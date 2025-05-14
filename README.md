@@ -58,8 +58,10 @@ The hybrid model incorporating attribute labels showed improved robustness and i
  ├── youtube/
  ├── DeepFakes/
  └── attribute/
- 		├── attribute-info.txt
-		└── attribute-youtube.csv
+		├── auto-labeling/
+		└── ground-truth/
+ 				├── attribute-info.txt
+				└── attribute-youtube.csv
 
 /model/
  ├── vgg16-hybrid-checkpoint.keras.zip.001
