@@ -1,4 +1,4 @@
-video_name;is_real;gender;action;ethnicity;expression;hair_color;hair_lenght;position;is_alone;is_ears_visible;is_forehead;is_glasses;is_moving;is_pan_video;is_shaky_video;is_talking
+video_name;is_real;gender;action;ethnicity;expression;hair_color;hair_length;position;is_alone;is_ears_visible;is_forehead;is_glasses;is_moving;is_pan_video;is_shaky_video;is_talking
 000.mp4;TRUE;MALE;STILL;OTHER;SERIOUS;OTHER;UNKNOW;SITTING;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;FALSE;TRUE
 001.mp4;TRUE;FEMALE;STILL;ASIAN;SERIOUS;BLACK;LONG;STANDING;TRUE;TRUE;TRUE;FALSE;FALSE;FALSE;FALSE;TRUE
 002.mp4;TRUE;MALE;STILL;WHITE;SERIOUS;GREY;SHORT;UNKNOW;TRUE;TRUE;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE

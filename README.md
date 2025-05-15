@@ -64,12 +64,20 @@ The hybrid model incorporating attribute labels showed improved robustness and i
 				└── attribute-youtube.csv
 
 /model/
- ├── vgg16-hybrid-checkpoint.keras.zip.001
- └── vgg16-hybrid-checkpoint.keras.zip.002
+ └── YYYY-MM-GG
+ 		├── vgg16-hybrid-checkpoint.keras.zip.001
+ 		└── vgg16-hybrid-checkpoint.keras.zip.002
 
 /notebooks/
  ├── 01_data-preparation.ipynb
  └── 02_training-and-metrics.ipynb
+ 
+/results/
+ └── YYYY-MM-GG
+  		├── file...01.csv
+		├── file...02.csv
+		├── ...
+  		└── file...99.csv
  
 /setup-instruction/
  ├── requirements_info.txt

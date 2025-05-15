@@ -6,7 +6,7 @@
 /*   Link-in-bio page: https://linktr.ee/vstile                                */
 /*                                                                             */
 /*   Created: 2024/10/26 by vstile                                             */
-/*   Updated: 2025/05/12 by vstile                                             */
+/*   Updated: 2025/05/14 by vstile                                             */
 /*                                                                             */
 /* *************************************************************************** */
 
@@ -32,7 +32,7 @@ action		HUGGING, STILL, WALKING
 ethnicity	AFRICAN, ASIAN, MIXED, WHITE, OTHER		
 expression	ANGRY, DISGUSTED, HAPPY, LAUGHING, SERIOUS, SURPRISED	
 hair_color	BLONDE, BLACK, BROWN, GREY, LIGHT, BROWN, RED, OTHER
-hair_lenght	BALD, LONG, PONYTAIL, SHORT			
+hair_length	BALD, LONG, PONYTAIL, SHORT			
 position	SITTING, STANDING, UNKNOW					
 
 attribute values table
@@ -45,7 +45,7 @@ action		HUGGING	STILL	WALKING
 ethnicity	AFRICAN	ASIAN	MIXED	WHITE	OTHER		
 expression	ANGRY	DISGUSTED	HAPPY	LAUGHING	SERIOUS	SURPRISED	
 hair_color	BLONDE	BLACK	BROWN	GREY	LIGHT BROWN	RED	OTHER
-hair_lenght	BALD	LONG	PONYTAIL	SHORT	UNKNOW		
+hair_length	BALD	LONG	PONYTAIL	SHORT	UNKNOW		
 position	SITTING	STANDING	UNKNOW				
 is_alone	bool						
 is_ears_visible	bool						
