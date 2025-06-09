@@ -1,0 +1,45 @@
+attribute,label,row,correct prediction,wrong prediction
+ethnicity,AFRICAN,Absent label,1859,127
+ethnicity,AFRICAN,Present label,13,1
+ethnicity,ASIAN,Absent label,1807,127
+ethnicity,ASIAN,Present label,65,1
+ethnicity,MIXED,Absent label,1858,128
+ethnicity,MIXED,Present label,14,0
+ethnicity,OTHER,Absent label,1856,128
+ethnicity,OTHER,Present label,16,0
+ethnicity,WHITE,Absent label,108,2
+ethnicity,WHITE,Present label,1764,126
+gender,FEMALE,Absent label,724,50
+gender,FEMALE,Present label,1148,78
+gender,MALE,Absent label,1148,78
+gender,MALE,Present label,724,50
+hair_color,BALD,Absent label,1864,128
+hair_color,BALD,Present label,8,0
+hair_color,BLACK,Absent label,483,33
+hair_color,BLACK,Present label,1389,95
+hair_color,BLONDE,Absent label,1631,111
+hair_color,BLONDE,Present label,241,17
+hair_color,BROWN,Absent label,1776,122
+hair_color,BROWN,Present label,96,6
+hair_color,GREY,Absent label,1768,120
+hair_color,GREY,Present label,104,8
+hair_color,LIGHT BROWN,Absent label,1842,126
+hair_color,LIGHT BROWN,Present label,30,2
+hair_color,OTHER,Absent label,1870,128
+hair_color,OTHER,Present label,2,0
+hair_color,RED,Absent label,1870,128
+hair_color,RED,Present label,2,0
+hair_length,BALD,Absent label,1864,128
+hair_length,BALD,Present label,8,0
+hair_length,LONG,Absent label,1073,81
+hair_length,LONG,Present label,799,47
+hair_length,PONYTAIL,Absent label,1836,128
+hair_length,PONYTAIL,Present label,36,0
+hair_length,SHORT,Absent label,845,47
+hair_length,SHORT,Present label,1027,81
+hair_length,UNKNOW,Absent label,1870,128
+hair_length,UNKNOW,Present label,2,0
+is_ears_visible,False,Absent label,1436,92
+is_ears_visible,False,Present label,436,36
+is_ears_visible,True,Absent label,436,36
+is_ears_visible,True,Present label,1436,92
