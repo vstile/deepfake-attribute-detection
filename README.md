@@ -105,7 +105,7 @@ The hybrid model incorporating attribute labels showed improved robustness and i
 If you use this code or data in your research, please cite:
 
 > Vittorio Stile, Roberto Caldelli, Gabriel Guerrero-Contreras, Sara Balderas-Díaz, Inmaculada Medina-Bulo,  
-> _Enhancing DeepFake Detection with Semi-Supervised Facial Attribute Labeling: A Hybrid Learning Approach_, 2025.
+> _Analysis of DeepFake Detection through Semi-Supervised Facial Attribute Labeling_. The 11th Spanish-German Symposium on Applied Computer Science (SGSOACS), Vienna, Austria 2025, June 2.
 
 ---
 
