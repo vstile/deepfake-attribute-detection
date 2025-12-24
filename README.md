@@ -54,6 +54,9 @@ The hybrid model incorporating attribute labels showed improved robustness and i
 ## 📂 Repository Structure
 
 ```
+LICENSE
+README.md
+
 /dataset/
  ├── youtube/
  ├── DeepFakes/
@@ -63,19 +66,30 @@ The hybrid model incorporating attribute labels showed improved robustness and i
  				├── attribute-info.txt
 				└── attribute-youtube.csv
 
-/model/
- └── YYYY-MM-GG
+/saved-models/
+ ├── YYYY-MM-GG/
+ ├── ...
+ └── YYYY-MM-GG/
  		├── vgg16-hybrid-checkpoint.keras.zip.001
  		└── vgg16-hybrid-checkpoint.keras.zip.002
 
 /notebooks/
- ├── 01_data-preparation.ipynb
- ├── 02_training-and-metrics.ipynb
+ ├── DeepFace_Detect_0.1.1_ResNet-50.ipynb
+ ├── DeepFace_Detect_0.1.2_ResNet-50.ipynb
  ├── ...
- └── XX_....ipynb
+ ├── ... .ipynb
+ └── dataset-preprocessing/
+		├── file-manipulation/
+		└── frame-estraction/
+                ├── data-preparation.ipynb
+                ├── ...
+                └── ... .ipynb
+
  
 /results/
- └── YYYY-MM-GG
+ ├── YYYY-MM-GG/
+ ├── ...
+ └── YYYY-MM-GG/
   		├── file...01.csv
 		├── file...02.csv
 		├── ...
@@ -113,3 +127,33 @@ If you use this code or data in your research, please cite:
 ## 📢 Acknowledgments
 
 This work was supported by the European Union under D.M. n. 352/2022 and PwC Business Services SRL. Special thanks to the research teams at UCA and Universitas Mercatorum for their continued collaboration.
+
+## Privacy and reuse policy
+
+* This repository contains code and models. No personal data are included.
+* **Reuse is permitted provided that you cite the author and this work.**
+* Recommended license: **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given, a link to the license is provided, and any changes are indicated.
+
+Short attribution text you can include in derivative works:
+
+```
+This material reuses data and methods from this work:
+Stile, V. (2025). Deepfake Attribute Detection – A Project on Attribute-Aware Detection and Bias Analysis.
+GitHub repository, https://github.com/vstile/deepfake-attribute-detection
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
+or
+```
+This material reuses data and methods from this paper:
+Stile, V., Caldelli, R., Guerrero-Contreras, G., Balderas-Díaz, S., and Medina-Bulo, I. (2025). Analysis of DeepFake Detection through Semi-Supervised Facial Attribute Labeling. Proceedings of the 11th Spanish-German Symposium on Applied Computer Science (SGSOACS 2025), 2831, XX, 138. https://link.springer.com/book/9783032148155
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
+or
+```
+This material reuses data and methods from this Ph.D. Dissertation:
+Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation” Ph.D. dissertation, Universitas Mercatorum, Roma.
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
