@@ -1,0 +1,1454 @@
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Creazione della cartella frames: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__exit_phone_room
+Video 01__exit_phone_room elaborato: 305 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__hugging_happy
+Video 01__hugging_happy elaborato: 787 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__kitchen_pan
+Video 01__kitchen_pan elaborato: 560 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__kitchen_still
+Video 01__kitchen_still elaborato: 800 frames salvati, 7 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__meeting_serious
+Video 01__meeting_serious elaborato: 1045 frames salvati, 46 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__outside_talking_pan_laughing
+Video 01__outside_talking_pan_laughing elaborato: 626 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__outside_talking_still_laughing
+Video 01__outside_talking_still_laughing elaborato: 851 frames salvati, 31 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__podium_speech_happy
+Video 01__podium_speech_happy elaborato: 902 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__secret_conversation
+Video 01__secret_conversation elaborato: 965 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__talking_against_wall
+Video 01__talking_against_wall elaborato: 860 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__talking_angry_couch
+Video 01__talking_angry_couch elaborato: 1489 frames salvati, 66 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__walk_down_hall_angry
+Video 01__walk_down_hall_angry elaborato: 371 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__walking_and_outside_surprised
+Video 01__walking_and_outside_surprised elaborato: 1085 frames salvati, 60 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__walking_down_indoor_hall_disgust
+Video 01__walking_down_indoor_hall_disgust elaborato: 834 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__walking_down_street_outside_angry
+Video 01__walking_down_street_outside_angry elaborato: 610 frames salvati, 22 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 01__walking_outside_cafe_disgusted
+Video 01__walking_outside_cafe_disgusted elaborato: 306 frames salvati, 14 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__exit_phone_room
+Video 02__exit_phone_room elaborato: 364 frames salvati, 13 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__hugging_happy
+Video 02__hugging_happy elaborato: 805 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__kitchen_pan
+Video 02__kitchen_pan elaborato: 591 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__kitchen_still
+Video 02__kitchen_still elaborato: 855 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__meeting_serious
+Video 02__meeting_serious elaborato: 985 frames salvati, 53 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__outside_talking_pan_laughing
+Video 02__outside_talking_pan_laughing elaborato: 661 frames salvati, 31 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__outside_talking_still_laughing
+Video 02__outside_talking_still_laughing elaborato: 820 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__podium_speech_happy
+Video 02__podium_speech_happy elaborato: 1076 frames salvati, 54 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__secret_conversation
+Video 02__secret_conversation elaborato: 1020 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__talking_against_wall
+Video 02__talking_against_wall elaborato: 990 frames salvati, 50 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__talking_angry_couch
+Video 02__talking_angry_couch elaborato: 1300 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__walk_down_hall_angry
+Video 02__walk_down_hall_angry elaborato: 405 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__walking_and_outside_surprised
+Video 02__walking_and_outside_surprised elaborato: 1085 frames salvati, 60 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__walking_down_indoor_hall_disgust
+Video 02__walking_down_indoor_hall_disgust elaborato: 823 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__walking_down_street_outside_angry
+Video 02__walking_down_street_outside_angry elaborato: 744 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 02__walking_outside_cafe_disgusted
+Video 02__walking_outside_cafe_disgusted elaborato: 577 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__exit_phone_room
+Video 03__exit_phone_room elaborato: 620 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__hugging_happy
+Video 03__hugging_happy elaborato: 816 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__kitchen_pan
+Video 03__kitchen_pan elaborato: 549 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__kitchen_still
+Video 03__kitchen_still elaborato: 955 frames salvati, 32 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__meeting_serious
+Video 03__meeting_serious elaborato: 960 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__outside_talking_pan_laughing
+Video 03__outside_talking_pan_laughing elaborato: 731 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__outside_talking_still_laughing
+Video 03__outside_talking_still_laughing elaborato: 949 frames salvati, 47 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__podium_speech_happy
+Video 03__podium_speech_happy elaborato: 839 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__secret_conversation
+Video 03__secret_conversation elaborato: 854 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__talking_against_wall
+Video 03__talking_against_wall elaborato: 910 frames salvati, 47 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__talking_angry_couch
+Video 03__talking_angry_couch elaborato: 1456 frames salvati, 73 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__walk_down_hall_angry
+Video 03__walk_down_hall_angry elaborato: 585 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__walking_and_outside_surprised
+Video 03__walking_and_outside_surprised elaborato: 1148 frames salvati, 63 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__walking_down_indoor_hall_disgust
+Video 03__walking_down_indoor_hall_disgust elaborato: 1465 frames salvati, 98 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__walking_down_street_outside_angry
+Video 03__walking_down_street_outside_angry elaborato: 1217 frames salvati, 50 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 03__walking_outside_cafe_disgusted
+Video 03__walking_outside_cafe_disgusted elaborato: 717 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__exit_phone_room
+Video 04__exit_phone_room elaborato: 387 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__kitchen_pan
+Video 04__kitchen_pan elaborato: 499 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__kitchen_still
+Video 04__kitchen_still elaborato: 840 frames salvati, 39 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__outside_talking_pan_laughing
+Video 04__outside_talking_pan_laughing elaborato: 803 frames salvati, 37 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__outside_talking_still_laughing
+Video 04__outside_talking_still_laughing elaborato: 810 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__podium_speech_happy
+Video 04__podium_speech_happy elaborato: 932 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__secret_conversation
+Video 04__secret_conversation elaborato: 915 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__talking_against_wall
+Video 04__talking_against_wall elaborato: 900 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__talking_angry_couch
+Video 04__talking_angry_couch elaborato: 1380 frames salvati, 56 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__walk_down_hall_angry
+Video 04__walk_down_hall_angry elaborato: 341 frames salvati, 9 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__walking_down_street_outside_angry
+Video 04__walking_down_street_outside_angry elaborato: 577 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 04__walking_outside_cafe_disgusted
+Video 04__walking_outside_cafe_disgusted elaborato: 405 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__exit_phone_room
+Video 05__exit_phone_room elaborato: 518 frames salvati, 8 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__hugging_happy
+Video 05__hugging_happy elaborato: 820 frames salvati, 9 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__kitchen_pan
+Video 05__kitchen_pan elaborato: 677 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__kitchen_still
+Video 05__kitchen_still elaborato: 875 frames salvati, 48 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__outside_talking_pan_laughing
+Video 05__outside_talking_pan_laughing elaborato: 755 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__outside_talking_still_laughing
+Video 05__outside_talking_still_laughing elaborato: 960 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__podium_speech_happy
+Video 05__podium_speech_happy elaborato: 1080 frames salvati, 78 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__talking_against_wall
+Video 05__talking_against_wall elaborato: 835 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__walk_down_hall_angry
+Video 05__walk_down_hall_angry elaborato: 590 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__walking_down_street_outside_angry
+Video 05__walking_down_street_outside_angry elaborato: 847 frames salvati, 31 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 05__walking_outside_cafe_disgusted
+Video 05__walking_outside_cafe_disgusted elaborato: 632 frames salvati, 32 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__exit_phone_room
+Video 06__exit_phone_room elaborato: 297 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__hugging_happy
+Video 06__hugging_happy elaborato: 880 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__kitchen_pan
+Video 06__kitchen_pan elaborato: 723 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__kitchen_still
+Video 06__kitchen_still elaborato: 915 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__outside_talking_pan_laughing
+Video 06__outside_talking_pan_laughing elaborato: 678 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__outside_talking_still_laughing
+Video 06__outside_talking_still_laughing elaborato: 845 frames salvati, 14 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__podium_speech_happy
+Video 06__podium_speech_happy elaborato: 1255 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__talking_against_wall
+Video 06__talking_against_wall elaborato: 845 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__talking_angry_couch
+Video 06__talking_angry_couch elaborato: 1185 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__walk_down_hall_angry
+Video 06__walk_down_hall_angry elaborato: 447 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__walking_and_outside_surprised
+Video 06__walking_and_outside_surprised elaborato: 1015 frames salvati, 50 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__walking_down_indoor_hall_disgust
+Video 06__walking_down_indoor_hall_disgust elaborato: 1373 frames salvati, 72 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__walking_down_street_outside_angry
+Video 06__walking_down_street_outside_angry elaborato: 751 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 06__walking_outside_cafe_disgusted
+Video 06__walking_outside_cafe_disgusted elaborato: 356 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__exit_phone_room
+Video 07__exit_phone_room elaborato: 487 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__hugging_happy
+Video 07__hugging_happy elaborato: 875 frames salvati, 21 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__kitchen_pan
+Video 07__kitchen_pan elaborato: 578 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__kitchen_still
+Video 07__kitchen_still elaborato: 840 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__outside_talking_pan_laughing
+Video 07__outside_talking_pan_laughing elaborato: 718 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__outside_talking_still_laughing
+Video 07__outside_talking_still_laughing elaborato: 860 frames salvati, 38 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__podium_speech_happy
+Video 07__podium_speech_happy elaborato: 1111 frames salvati, 54 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__secret_conversation
+Video 07__secret_conversation elaborato: 995 frames salvati, 3 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__talking_against_wall
+Video 07__talking_against_wall elaborato: 830 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__talking_angry_couch
+Video 07__talking_angry_couch elaborato: 1620 frames salvati, 75 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__walk_down_hall_angry
+Video 07__walk_down_hall_angry elaborato: 724 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__walking_down_street_outside_angry
+Video 07__walking_down_street_outside_angry elaborato: 786 frames salvati, 31 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 07__walking_outside_cafe_disgusted
+Video 07__walking_outside_cafe_disgusted elaborato: 568 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__exit_phone_room
+Video 08__exit_phone_room elaborato: 383 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__kitchen_pan
+Video 08__kitchen_pan elaborato: 642 frames salvati, 11 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__kitchen_still
+Video 08__kitchen_still elaborato: 1015 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__outside_talking_pan_laughing
+Video 08__outside_talking_pan_laughing elaborato: 698 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__outside_talking_still_laughing
+Video 08__outside_talking_still_laughing elaborato: 885 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__podium_speech_happy
+Video 08__podium_speech_happy elaborato: 1094 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__talking_against_wall
+Video 08__talking_against_wall elaborato: 1100 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__walk_down_hall_angry
+Video 08__walk_down_hall_angry elaborato: 456 frames salvati, 7 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__walking_down_street_outside_angry
+Video 08__walking_down_street_outside_angry elaborato: 694 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 08__walking_outside_cafe_disgusted
+Video 08__walking_outside_cafe_disgusted elaborato: 419 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__exit_phone_room
+Video 09__exit_phone_room elaborato: 437 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__kitchen_pan
+Video 09__kitchen_pan elaborato: 703 frames salvati, 21 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__outside_talking_pan_laughing
+Video 09__outside_talking_pan_laughing elaborato: 820 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__outside_talking_still_laughing
+Video 09__outside_talking_still_laughing elaborato: 940 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__podium_speech_happy
+Video 09__podium_speech_happy elaborato: 1023 frames salvati, 51 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__talking_against_wall
+Video 09__talking_against_wall elaborato: 975 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__talking_angry_couch
+Video 09__talking_angry_couch elaborato: 1325 frames salvati, 46 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__walk_down_hall_angry
+Video 09__walk_down_hall_angry elaborato: 461 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 09__walking_down_street_outside_angry
+Video 09__walking_down_street_outside_angry elaborato: 553 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__exit_phone_room
+Video 10__exit_phone_room elaborato: 322 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__kitchen_pan
+Video 10__kitchen_pan elaborato: 758 frames salvati, 3 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__kitchen_still
+Video 10__kitchen_still elaborato: 890 frames salvati, 21 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__outside_talking_pan_laughing
+Video 10__outside_talking_pan_laughing elaborato: 796 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__outside_talking_still_laughing
+Video 10__outside_talking_still_laughing elaborato: 790 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__podium_speech_happy
+Video 10__podium_speech_happy elaborato: 999 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__talking_against_wall
+Video 10__talking_against_wall elaborato: 1025 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__talking_angry_couch
+Video 10__talking_angry_couch elaborato: 1415 frames salvati, 70 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__walk_down_hall_angry
+Video 10__walk_down_hall_angry elaborato: 875 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__walking_down_street_outside_angry
+Video 10__walking_down_street_outside_angry elaborato: 1000 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 10__walking_outside_cafe_disgusted
+Video 10__walking_outside_cafe_disgusted elaborato: 1034 frames salvati, 46 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__exit_phone_room
+Video 11__exit_phone_room elaborato: 819 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__kitchen_pan
+Video 11__kitchen_pan elaborato: 718 frames salvati, 13 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__kitchen_still
+Video 11__kitchen_still elaborato: 800 frames salvati, 10 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__outside_talking_pan_laughing
+Video 11__outside_talking_pan_laughing elaborato: 744 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__outside_talking_still_laughing
+Video 11__outside_talking_still_laughing elaborato: 795 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__podium_speech_happy
+Video 11__podium_speech_happy elaborato: 1193 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__secret_conversation
+Video 11__secret_conversation elaborato: 960 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__talking_against_wall
+Video 11__talking_against_wall elaborato: 880 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__talking_angry_couch
+Video 11__talking_angry_couch elaborato: 1620 frames salvati, 63 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__walk_down_hall_angry
+Video 11__walk_down_hall_angry elaborato: 855 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__walking_down_street_outside_angry
+Video 11__walking_down_street_outside_angry elaborato: 1110 frames salvati, 46 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 11__walking_outside_cafe_disgusted
+Video 11__walking_outside_cafe_disgusted elaborato: 748 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__exit_phone_room
+Video 12__exit_phone_room elaborato: 892 frames salvati, 39 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__hugging_happy
+Video 12__hugging_happy elaborato: 932 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__kitchen_pan
+Video 12__kitchen_pan elaborato: 729 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__kitchen_still
+Video 12__kitchen_still elaborato: 815 frames salvati, 39 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__outside_talking_pan_laughing
+Video 12__outside_talking_pan_laughing elaborato: 926 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__outside_talking_still_laughing
+Video 12__outside_talking_still_laughing elaborato: 845 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__podium_speech_happy
+Video 12__podium_speech_happy elaborato: 1012 frames salvati, 51 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__secret_conversation
+Video 12__secret_conversation elaborato: 1020 frames salvati, 2 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__talking_against_wall
+Video 12__talking_against_wall elaborato: 880 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__talking_angry_couch
+Video 12__talking_angry_couch elaborato: 1384 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__walk_down_hall_angry
+Video 12__walk_down_hall_angry elaborato: 518 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__walking_and_outside_surprised
+Video 12__walking_and_outside_surprised elaborato: 952 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__walking_down_indoor_hall_disgust
+Video 12__walking_down_indoor_hall_disgust elaborato: 1350 frames salvati, 71 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__walking_down_street_outside_angry
+Video 12__walking_down_street_outside_angry elaborato: 711 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 12__walking_outside_cafe_disgusted
+Video 12__walking_outside_cafe_disgusted elaborato: 759 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__exit_phone_room
+Video 13__exit_phone_room elaborato: 539 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__hugging_happy
+Video 13__hugging_happy elaborato: 924 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__kitchen_pan
+Video 13__kitchen_pan elaborato: 657 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__kitchen_still
+Video 13__kitchen_still elaborato: 775 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__outside_talking_pan_laughing
+Video 13__outside_talking_pan_laughing elaborato: 689 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__outside_talking_still_laughing
+Video 13__outside_talking_still_laughing elaborato: 878 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__podium_speech_happy
+Video 13__podium_speech_happy elaborato: 1001 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__secret_conversation
+Video 13__secret_conversation elaborato: 955 frames salvati, 3 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__talking_against_wall
+Video 13__talking_against_wall elaborato: 1045 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__talking_angry_couch
+Video 13__talking_angry_couch elaborato: 1335 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__walk_down_hall_angry
+Video 13__walk_down_hall_angry elaborato: 609 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__walking_and_outside_surprised
+Video 13__walking_and_outside_surprised elaborato: 955 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__walking_down_indoor_hall_disgust
+Video 13__walking_down_indoor_hall_disgust elaborato: 1350 frames salvati, 71 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__walking_down_street_outside_angry
+Video 13__walking_down_street_outside_angry elaborato: 743 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 13__walking_outside_cafe_disgusted
+Video 13__walking_outside_cafe_disgusted elaborato: 384 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__exit_phone_room
+Video 14__exit_phone_room elaborato: 655 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__hugging_happy
+Video 14__hugging_happy elaborato: 159 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__kitchen_pan
+Video 14__kitchen_pan elaborato: 672 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__kitchen_still
+Video 14__kitchen_still elaborato: 890 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__outside_talking_pan_laughing
+Video 14__outside_talking_pan_laughing elaborato: 733 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__outside_talking_still_laughing
+Video 14__outside_talking_still_laughing elaborato: 925 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__podium_speech_happy
+Video 14__podium_speech_happy elaborato: 1326 frames salvati, 67 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__secret_conversation
+Video 14__secret_conversation elaborato: 1050 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__talking_against_wall
+Video 14__talking_against_wall elaborato: 970 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__talking_angry_couch
+Video 14__talking_angry_couch elaborato: 1620 frames salvati, 26 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__walk_down_hall_angry
+Video 14__walk_down_hall_angry elaborato: 771 frames salvati, 30 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__walking_and_outside_surprised
+Video 14__walking_and_outside_surprised elaborato: 869 frames salvati, 55 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__walking_down_indoor_hall_disgust
+Video 14__walking_down_indoor_hall_disgust elaborato: 1465 frames salvati, 71 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__walking_down_street_outside_angry
+Video 14__walking_down_street_outside_angry elaborato: 1457 frames salvati, 81 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 14__walking_outside_cafe_disgusted
+Video 14__walking_outside_cafe_disgusted elaborato: 722 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__exit_phone_room
+Video 15__exit_phone_room elaborato: 429 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__hugging_happy
+Video 15__hugging_happy elaborato: 800 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__kitchen_pan
+Video 15__kitchen_pan elaborato: 629 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__kitchen_still
+Video 15__kitchen_still elaborato: 865 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__outside_talking_pan_laughing
+Video 15__outside_talking_pan_laughing elaborato: 706 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__outside_talking_still_laughing
+Video 15__outside_talking_still_laughing elaborato: 870 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__podium_speech_happy
+Video 15__podium_speech_happy elaborato: 1430 frames salvati, 71 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__talking_against_wall
+Video 15__talking_against_wall elaborato: 865 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__talking_angry_couch
+Video 15__talking_angry_couch elaborato: 1330 frames salvati, 54 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__walk_down_hall_angry
+Video 15__walk_down_hall_angry elaborato: 549 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__walking_and_outside_surprised
+Video 15__walking_and_outside_surprised elaborato: 880 frames salvati, 50 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__walking_down_indoor_hall_disgust
+Video 15__walking_down_indoor_hall_disgust elaborato: 1391 frames salvati, 64 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__walking_down_street_outside_angry
+Video 15__walking_down_street_outside_angry elaborato: 529 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 15__walking_outside_cafe_disgusted
+Video 15__walking_outside_cafe_disgusted elaborato: 558 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__exit_phone_room
+Video 16__exit_phone_room elaborato: 572 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__hugging_happy
+Video 16__hugging_happy elaborato: 750 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__kitchen_pan
+Video 16__kitchen_pan elaborato: 707 frames salvati, 22 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__kitchen_still
+Video 16__kitchen_still elaborato: 825 frames salvati, 26 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__outside_talking_pan_laughing
+Video 16__outside_talking_pan_laughing elaborato: 726 frames salvati, 14 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__podium_speech_happy
+Video 16__podium_speech_happy elaborato: 1245 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__talking_against_wall
+Video 16__talking_against_wall elaborato: 940 frames salvati, 31 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__walk_down_hall_angry
+Video 16__walk_down_hall_angry elaborato: 477 frames salvati, 14 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__walking_and_outside_surprised
+Video 16__walking_and_outside_surprised elaborato: 1370 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__walking_down_indoor_hall_disgust
+Video 16__walking_down_indoor_hall_disgust elaborato: 1130 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__walking_down_street_outside_angry
+Video 16__walking_down_street_outside_angry elaborato: 844 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 16__walking_outside_cafe_disgusted
+Video 16__walking_outside_cafe_disgusted elaborato: 1213 frames salvati, 32 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__exit_phone_room
+Video 17__exit_phone_room elaborato: 769 frames salvati, 5 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__hugging_happy
+Video 17__hugging_happy elaborato: 745 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__kitchen_pan
+Video 17__kitchen_pan elaborato: 710 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__kitchen_still
+Video 17__kitchen_still elaborato: 915 frames salvati, 13 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__outside_talking_pan_laughing
+Video 17__outside_talking_pan_laughing elaborato: 768 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__outside_talking_still_laughing
+Video 17__outside_talking_still_laughing elaborato: 795 frames salvati, 9 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__podium_speech_happy
+Video 17__podium_speech_happy elaborato: 1130 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__talking_against_wall
+Video 17__talking_against_wall elaborato: 940 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__talking_angry_couch
+Video 17__talking_angry_couch elaborato: 1310 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__walk_down_hall_angry
+Video 17__walk_down_hall_angry elaborato: 572 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__walking_and_outside_surprised
+Video 17__walking_and_outside_surprised elaborato: 1354 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__walking_down_indoor_hall_disgust
+Video 17__walking_down_indoor_hall_disgust elaborato: 1127 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 17__walking_down_street_outside_angry
+Video 17__walking_down_street_outside_angry elaborato: 1047 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__exit_phone_room
+Video 18__exit_phone_room elaborato: 497 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__kitchen_pan
+Video 18__kitchen_pan elaborato: 803 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__kitchen_still
+Video 18__kitchen_still elaborato: 875 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__outside_talking_pan_laughing
+Video 18__outside_talking_pan_laughing elaborato: 815 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__outside_talking_still_laughing
+Video 18__outside_talking_still_laughing elaborato: 905 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__podium_speech_happy
+Video 18__podium_speech_happy elaborato: 1187 frames salvati, 60 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__secret_conversation
+Video 18__secret_conversation elaborato: 1065 frames salvati, 2 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__talking_against_wall
+Video 18__talking_against_wall elaborato: 840 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__walk_down_hall_angry
+Video 18__walk_down_hall_angry elaborato: 540 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__walking_down_street_outside_angry
+Video 18__walking_down_street_outside_angry elaborato: 766 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 18__walking_outside_cafe_disgusted
+Video 18__walking_outside_cafe_disgusted elaborato: 447 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__exit_phone_room
+Video 19__exit_phone_room elaborato: 410 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__kitchen_pan
+Video 19__kitchen_pan elaborato: 804 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__kitchen_still
+Video 19__kitchen_still elaborato: 895 frames salvati, 42 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__outside_talking_pan_laughing
+Video 19__outside_talking_pan_laughing elaborato: 755 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__outside_talking_still_laughing
+Video 19__outside_talking_still_laughing elaborato: 880 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__podium_speech_happy
+Video 19__podium_speech_happy elaborato: 923 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__secret_conversation
+Video 19__secret_conversation elaborato: 975 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__talking_against_wall
+Video 19__talking_against_wall elaborato: 1105 frames salvati, 54 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__talking_angry_couch
+Video 19__talking_angry_couch elaborato: 1620 frames salvati, 46 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__walk_down_hall_angry
+Video 19__walk_down_hall_angry elaborato: 695 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__walking_down_street_outside_angry
+Video 19__walking_down_street_outside_angry elaborato: 686 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 19__walking_outside_cafe_disgusted
+Video 19__walking_outside_cafe_disgusted elaborato: 548 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__exit_phone_room
+Video 20__exit_phone_room elaborato: 730 frames salvati, 30 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__hugging_happy
+Video 20__hugging_happy elaborato: 825 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__kitchen_pan
+Video 20__kitchen_pan elaborato: 692 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__kitchen_still
+Video 20__kitchen_still elaborato: 920 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__outside_talking_pan_laughing
+Video 20__outside_talking_pan_laughing elaborato: 740 frames salvati, 35 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__outside_talking_still_laughing
+Video 20__outside_talking_still_laughing elaborato: 845 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__podium_speech_happy
+Video 20__podium_speech_happy elaborato: 1120 frames salvati, 67 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__secret_conversation
+Video 20__secret_conversation elaborato: 1045 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__talking_against_wall
+Video 20__talking_against_wall elaborato: 1145 frames salvati, 58 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__talking_angry_couch
+Video 20__talking_angry_couch elaborato: 1620 frames salvati, 75 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__walk_down_hall_angry
+Video 20__walk_down_hall_angry elaborato: 599 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__walking_and_outside_surprised
+Video 20__walking_and_outside_surprised elaborato: 1170 frames salvati, 55 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__walking_down_indoor_hall_disgust
+Video 20__walking_down_indoor_hall_disgust elaborato: 1375 frames salvati, 72 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__walking_down_street_outside_angry
+Video 20__walking_down_street_outside_angry elaborato: 1086 frames salvati, 43 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 20__walking_outside_cafe_disgusted
+Video 20__walking_outside_cafe_disgusted elaborato: 1034 frames salvati, 40 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__exit_phone_room
+Video 21__exit_phone_room elaborato: 603 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__hugging_happy
+Video 21__hugging_happy elaborato: 1180 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__kitchen_pan
+Video 21__kitchen_pan elaborato: 735 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__kitchen_still
+Video 21__kitchen_still elaborato: 850 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__outside_talking_pan_laughing
+Video 21__outside_talking_pan_laughing elaborato: 649 frames salvati, 30 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__outside_talking_still_laughing
+Video 21__outside_talking_still_laughing elaborato: 895 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__podium_speech_happy
+Video 21__podium_speech_happy elaborato: 1600 frames salvati, 80 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__talking_against_wall
+Video 21__talking_against_wall elaborato: 920 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__talking_angry_couch
+Video 21__talking_angry_couch elaborato: 1314 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__walk_down_hall_angry
+Video 21__walk_down_hall_angry elaborato: 538 frames salvati, 16 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__walking_and_outside_surprised
+Video 21__walking_and_outside_surprised elaborato: 1170 frames salvati, 55 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__walking_down_indoor_hall_disgust
+Video 21__walking_down_indoor_hall_disgust elaborato: 1375 frames salvati, 72 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__walking_down_street_outside_angry
+Video 21__walking_down_street_outside_angry elaborato: 662 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 21__walking_outside_cafe_disgusted
+Video 21__walking_outside_cafe_disgusted elaborato: 450 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__exit_phone_room
+Video 22__exit_phone_room elaborato: 886 frames salvati, 37 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__kitchen_pan
+Video 22__kitchen_pan elaborato: 780 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__kitchen_still
+Video 22__kitchen_still elaborato: 865 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__outside_talking_pan_laughing
+Video 22__outside_talking_pan_laughing elaborato: 676 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__outside_talking_still_laughing
+Video 22__outside_talking_still_laughing elaborato: 715 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__podium_speech_happy
+Video 22__podium_speech_happy elaborato: 911 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__secret_conversation
+Video 22__secret_conversation elaborato: 1060 frames salvati, 0 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__talking_against_wall
+Video 22__talking_against_wall elaborato: 910 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__walk_down_hall_angry
+Video 22__walk_down_hall_angry elaborato: 621 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__walking_and_outside_surprised
+Video 22__walking_and_outside_surprised elaborato: 1080 frames salvati, 56 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__walking_down_indoor_hall_disgust
+Video 22__walking_down_indoor_hall_disgust elaborato: 1225 frames salvati, 72 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__walking_down_street_outside_angry
+Video 22__walking_down_street_outside_angry elaborato: 1121 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 22__walking_outside_cafe_disgusted
+Video 22__walking_outside_cafe_disgusted elaborato: 1086 frames salvati, 52 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__exit_phone_room
+Video 23__exit_phone_room elaborato: 756 frames salvati, 32 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__hugging_happy
+Video 23__hugging_happy elaborato: 1159 frames salvati, 10 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__kitchen_pan
+Video 23__kitchen_pan elaborato: 817 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__kitchen_still
+Video 23__kitchen_still elaborato: 1035 frames salvati, 49 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__outside_talking_pan_laughing
+Video 23__outside_talking_pan_laughing elaborato: 670 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__outside_talking_still_laughing
+Video 23__outside_talking_still_laughing elaborato: 930 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__podium_speech_happy
+Video 23__podium_speech_happy elaborato: 1135 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__secret_conversation
+Video 23__secret_conversation elaborato: 970 frames salvati, 2 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__talking_against_wall
+Video 23__talking_against_wall elaborato: 1025 frames salvati, 54 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__talking_angry_couch
+Video 23__talking_angry_couch elaborato: 1155 frames salvati, 53 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__walk_down_hall_angry
+Video 23__walk_down_hall_angry elaborato: 695 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__walking_and_outside_surprised
+Video 23__walking_and_outside_surprised elaborato: 1080 frames salvati, 56 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__walking_down_indoor_hall_disgust
+Video 23__walking_down_indoor_hall_disgust elaborato: 1225 frames salvati, 72 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__walking_down_street_outside_angry
+Video 23__walking_down_street_outside_angry elaborato: 1251 frames salvati, 55 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 23__walking_outside_cafe_disgusted
+Video 23__walking_outside_cafe_disgusted elaborato: 608 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__exit_phone_room
+Video 24__exit_phone_room elaborato: 588 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__kitchen_pan
+Video 24__kitchen_pan elaborato: 812 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__kitchen_still
+Video 24__kitchen_still elaborato: 820 frames salvati, 38 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__outside_talking_pan_laughing
+Video 24__outside_talking_pan_laughing elaborato: 702 frames salvati, 33 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__outside_talking_still_laughing
+Video 24__outside_talking_still_laughing elaborato: 870 frames salvati, 38 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__podium_speech_happy
+Video 24__podium_speech_happy elaborato: 1145 frames salvati, 59 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__secret_conversation
+Video 24__secret_conversation elaborato: 515 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__talking_against_wall
+Video 24__talking_against_wall elaborato: 1110 frames salvati, 56 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__talking_angry_couch
+Video 24__talking_angry_couch elaborato: 1245 frames salvati, 36 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__walk_down_hall_angry
+Video 24__walk_down_hall_angry elaborato: 530 frames salvati, 9 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__walking_down_street_outside_angry
+Video 24__walking_down_street_outside_angry elaborato: 1099 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 24__walking_outside_cafe_disgusted
+Video 24__walking_outside_cafe_disgusted elaborato: 827 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__exit_phone_room
+Video 25__exit_phone_room elaborato: 616 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__outside_talking_pan_laughing
+Video 25__outside_talking_pan_laughing elaborato: 673 frames salvati, 7 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__outside_talking_still_laughing
+Video 25__outside_talking_still_laughing elaborato: 875 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__podium_speech_happy
+Video 25__podium_speech_happy elaborato: 1620 frames salvati, 80 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__secret_conversation
+Video 25__secret_conversation elaborato: 1080 frames salvati, 2 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__talking_against_wall
+Video 25__talking_against_wall elaborato: 1170 frames salvati, 41 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__walk_down_hall_angry
+Video 25__walk_down_hall_angry elaborato: 724 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__walking_down_street_outside_angry
+Video 25__walking_down_street_outside_angry elaborato: 634 frames salvati, 26 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 25__walking_outside_cafe_disgusted
+Video 25__walking_outside_cafe_disgusted elaborato: 401 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__exit_phone_room
+Video 26__exit_phone_room elaborato: 381 frames salvati, 13 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__kitchen_pan
+Video 26__kitchen_pan elaborato: 750 frames salvati, 26 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__kitchen_still
+Video 26__kitchen_still elaborato: 865 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__outside_talking_pan_laughing
+Video 26__outside_talking_pan_laughing elaborato: 713 frames salvati, 19 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__outside_talking_still_laughing
+Video 26__outside_talking_still_laughing elaborato: 840 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__podium_speech_happy
+Video 26__podium_speech_happy elaborato: 1095 frames salvati, 62 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__secret_conversation
+Video 26__secret_conversation elaborato: 1160 frames salvati, 1 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__talking_against_wall
+Video 26__talking_against_wall elaborato: 1295 frames salvati, 65 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__talking_angry_couch
+Video 26__talking_angry_couch elaborato: 1465 frames salvati, 60 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__walk_down_hall_angry
+Video 26__walk_down_hall_angry elaborato: 523 frames salvati, 17 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__walking_down_street_outside_angry
+Video 26__walking_down_street_outside_angry elaborato: 625 frames salvati, 23 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 26__walking_outside_cafe_disgusted
+Video 26__walking_outside_cafe_disgusted elaborato: 521 frames salvati, 28 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__exit_phone_room
+Video 27__exit_phone_room elaborato: 478 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__hugging_happy
+Video 27__hugging_happy elaborato: 874 frames salvati, 18 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__kitchen_pan
+Video 27__kitchen_pan elaborato: 536 frames salvati, 15 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__kitchen_still
+Video 27__kitchen_still elaborato: 905 frames salvati, 38 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__meeting_serious
+Video 27__meeting_serious elaborato: 910 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__outside_talking_pan_laughing
+Video 27__outside_talking_pan_laughing elaborato: 706 frames salvati, 34 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__outside_talking_still_laughing
+Video 27__outside_talking_still_laughing elaborato: 863 frames salvati, 57 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__podium_speech_happy
+Video 27__podium_speech_happy elaborato: 1071 frames salvati, 52 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__talking_against_wall
+Video 27__talking_against_wall elaborato: 940 frames salvati, 45 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__talking_angry_couch
+Video 27__talking_angry_couch elaborato: 1486 frames salvati, 66 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__walk_down_hall_angry
+Video 27__walk_down_hall_angry elaborato: 418 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__walking_and_outside_surprised
+Video 27__walking_and_outside_surprised elaborato: 1150 frames salvati, 64 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__walking_down_indoor_hall_disgust
+Video 27__walking_down_indoor_hall_disgust elaborato: 1465 frames salvati, 98 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__walking_down_street_outside_angry
+Video 27__walking_down_street_outside_angry elaborato: 728 frames salvati, 24 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 27__walking_outside_cafe_disgusted
+Video 27__walking_outside_cafe_disgusted elaborato: 273 frames salvati, 12 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__exit_phone_room
+Video 28__exit_phone_room elaborato: 474 frames salvati, 20 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__kitchen_pan
+Video 28__kitchen_pan elaborato: 696 frames salvati, 29 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__kitchen_still
+Video 28__kitchen_still elaborato: 909 frames salvati, 25 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__outside_talking_pan_laughing
+Video 28__outside_talking_pan_laughing elaborato: 703 frames salvati, 27 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__outside_talking_still_laughing
+Video 28__outside_talking_still_laughing elaborato: 915 frames salvati, 44 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__podium_speech_happy
+Video 28__podium_speech_happy elaborato: 962 frames salvati, 47 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__secret_conversation
+Video 28__secret_conversation elaborato: 885 frames salvati, 4 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__talking_angry_couch
+Video 28__talking_angry_couch elaborato: 1328 frames salvati, 39 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__walk_down_hall_angry
+Video 28__walk_down_hall_angry elaborato: 677 frames salvati, 26 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__walking_down_street_outside_angry
+Video 28__walking_down_street_outside_angry elaborato: 1311 frames salvati, 59 facce salvate.
+Cartella faces confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/faces
+Cartella frames confermata: /Volumes/HDD2 - 12Tb/Developer/GitHub/PhD-Projects/dataset/dataset/original_sequences/actors/c40/frames
+Inizio elaborazione video: 28__walking_outside_cafe_disgusted
+Video 28__walking_outside_cafe_disgusted elaborato: 427 frames salvati, 19 facce salvate.
+Elaborazione completata: 11884 volti estratti da 363 video.
