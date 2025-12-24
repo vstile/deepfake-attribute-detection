@@ -1,0 +1,65 @@
+Distribuzione is_real:
+       0: 285730
+       1: 533755
+
+Distribuzione is_ears_visible:
+       0: 193457
+       1: 626028
+
+Crosstab is_real x is_ears_visible:
+ is_ears_visible       0       1
+is_real                        
+0                 67167  218563
+1                126290  407465
+
+Distribuzione gender:
+  'FEMALE': 501026
+  'MALE': 318459
+
+Distribuzione gender per classe:
+ gender   FEMALE    MALE
+is_real                
+0        174866  110864
+1        326160  207595
+
+Distribuzione ethnicity:
+  'AFRICAN': 4706
+  'ASIAN': 24013
+  'MIXED': 6053
+  'OTHER': 5463
+  'WHITE': 779250
+
+Distribuzione ethnicity per classe:
+ ethnicity  AFRICAN  ASIAN  MIXED  OTHER   WHITE
+is_real                                        
+0             1438   8329   2125   1931  271907
+1             3268  15684   3928   3532  507343
+
+Distribuzione hair_color:
+  'BALD': 3247
+  'BLACK': 629574
+  'BLONDE': 94051
+  'BROWN': 38396
+  'GREY': 39948
+  'LIGHT BROWN': 12696
+  'OTHER': 1087
+   'RED': 486
+
+Distribuzione hair_color per classe:
+ hair_color  BALD   BLACK  BLONDE  BROWN   GREY  LIGHT BROWN  OTHER  RED
+is_real                                                                
+0           1081  220609   31859  13657  13808         4154    388  174
+1           2166  408965   62192  24739  26140         8542    699  312
+
+Distribuzione hair_length:
+  'BALD': 472
+  'LONG': 356724
+  'PONYTAIL': 11025
+  'SHORT': 449038
+  'UNKNOWN': 2226
+
+Distribuzione hair_length per classe:
+ hair_length  BALD    LONG  PONYTAIL   SHORT  UNKNOWN
+is_real                                             
+0             168  125161      3756  155928      717
+1             304  231563      7269  293110     1509
