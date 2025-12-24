@@ -70,7 +70,9 @@ The hybrid model incorporating attribute labels showed improved robustness and i
 
 /notebooks/
  ├── 01_data-preparation.ipynb
- └── 02_training-and-metrics.ipynb
+ ├── 02_training-and-metrics.ipynb
+ ├── ...
+ └── XX_....ipynb
  
 /results/
  └── YYYY-MM-GG
@@ -80,8 +82,7 @@ The hybrid model incorporating attribute labels showed improved robustness and i
   		└── file...99.csv
  
 /setup-instruction/
- ├── requirements_info.txt
- ├── requirements.txt
+ ├── environment-setup/
  └── download-faceforensics++/
  		├── download-FaceForensics++.py
  		└── download-FaceForensics++guide.pdf
