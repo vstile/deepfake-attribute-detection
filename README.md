@@ -128,6 +128,8 @@ If you use this code or data in your research, please cite:
 
 This work was supported by the European Union under D.M. n. 352/2022 and PwC Business Services SRL. Special thanks to the research teams at UCA and Universitas Mercatorum for their continued collaboration.
 
+---
+
 ## Privacy and reuse policy
 
 * This repository contains code and models. No personal data are included.
