@@ -33,6 +33,15 @@ This research investigates the integration of automatically labeled visual attri
 5. **Evaluation**  
    Metrics include accuracy, precision, recall, F1-score, and error analysis via false positives/negatives.
 
+![Overview of the proposed methodology](figs/pipeline.png)
+
+> [!NOTE]
+> Overview of the proposed methodology. The pipeline begins with video-level
+input from the FaceForensics++ dataset, proceeds through frame extraction and face cropping,
+followed by DeepFake classification at the frame level. A semi-supervised labeling process
+is then used to annotate facial attributes, and finally, correlations between those attributes
+and misclassification patterns are analyzed.
+
 ---
 
 ## 📊 Key Results
