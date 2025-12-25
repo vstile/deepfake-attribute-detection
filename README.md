@@ -10,10 +10,10 @@ This research investigates the integration of automatically labeled visual attri
 ## 🧪 What's Included in This Repository
 
 - ✅ **Source Code** to preprocess video data, extract facial frames, and apply visual attribute auto-labeling.
-- ✅ **Trained Model Checkpoint** (VGG16-based), fine-tuned for DeepFake classification using both images and auxiliary labels.
-- ✅ **FaceForensics++ Data Subset**: Selection of 8,000 cropped frames (4000 REAL/4000 FAKE) preprocessed and organized for replication.
+- ✅ **Trained Model Checkpoint** (`VGG16`-based), fine-tuned for DeepFake classification using both images and auxiliary labels.
+- ✅ **FaceForensics++ Data Subset**: Selection of `8,000` cropped frames (`4000 REAL`/`4000 FAKE`) preprocessed and organized for replication.
 - ✅ **Jupyter Notebooks** and scripts for:
-  - Face extraction using OpenCV Haar Cascade
+  - Face extraction using `OpenCV` and `Haar Cascade`
   - Semi-supervised labeling
   - Model training and evaluation
   - Bias and error analysis
@@ -23,13 +23,13 @@ This research investigates the integration of automatically labeled visual attri
 ## 🔍 Methodology Overview
 
 1. **Frame Extraction**  
-   Extract 1 frame every 20 using OpenCV from compressed (C40) FaceForensics++ videos.
+   Extract `1` frame every `20` using `OpenCV` from compressed (`C40`) FaceForensics++ videos.
 2. **Face Detection**  
-   Apply Haar Cascades to crop and normalize faces to 224x224.
+   Apply Haar Cascades to crop and normalize faces to `224x224`.
 3. **Semi-Supervised Labeling**  
    Automatically label 95% of samples using a classifier trained on 5% manually annotated data.
 4. **Model Training**  
-   Train a hybrid VGG16-based binary classifier combining visual data and attribute vectors.
+   Train a hybrid `VGG16`-based binary classifier combining visual data and attribute vectors.
 5. **Evaluation**  
    Metrics include accuracy, precision, recall, F1-score, and error analysis via false positives/negatives.
 
@@ -149,8 +149,7 @@ Short attribution text you can include in derivative works:
 
 ```
 This material reuses data and methods from this work:
-Stile, V. (2025). Deepfake Attribute Detection – A Project on Attribute-Aware Detection and Bias Analysis.
-GitHub repository, https://github.com/vstile/deepfake-attribute-detection
+Stile, V. (2025). Deepfake Attribute Detection – A Project on Attribute-Aware Detection and Bias Analysis. GitHub repository, https://github.com/vstile/deepfake-attribute-detection
 © 2025 Vittorio Stile - Licensed under CC BY 4.0.
 ```
 
@@ -164,7 +163,7 @@ Stile, V., Caldelli, R., Guerrero-Contreras, G., Balderas-Díaz, S., and Medina-
 or
 ```
 This material reuses data and methods from this Ph.D. Dissertation:
-Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation” Ph.D. dissertation, Universitas Mercatorum, Roma.
+Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation”. Ph.D. dissertation, Universitas Mercatorum, Roma.
 © 2025 Vittorio Stile - Licensed under CC BY 4.0.
 ```
 
