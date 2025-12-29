@@ -147,23 +147,24 @@ This work was supported by the European Union under D.M. n. 352/2022 and PwC Bus
 
 Short attribution text you can include in derivative works:
 
-```
-This material reuses data and methods from this work:
-Stile, V. (2025). Deepfake Attribute Detection – A Project on Attribute-Aware Detection and Bias Analysis. GitHub repository, https://github.com/vstile/deepfake-attribute-detection
-© 2025 Vittorio Stile - Licensed under CC BY 4.0.
-```
-
-or
-```
+paper attribution
+``` 
 This material reuses data and methods from this paper:
-Stile, V., Caldelli, R., Guerrero-Contreras, G., Balderas-Díaz, S., and Medina-Bulo, I. (2025). Analysis of DeepFake Detection through Semi-Supervised Facial Attribute Labeling. Proceedings of the 11th Spanish-German Symposium on Applied Computer Science (SGSOACS 2025), 2831, XX, 138. https://link.springer.com/book/9783032148155
+Stile, V., Caldelli, R., Guerrero-Contreras, G., Balderas-Díaz, S., and Medina-Bulo, I. (2025). Analysis of DeepFake Detection through Semi-Supervised Facial Attribute Labeling. Proceedings of the 11th Spanish-German Symposium on Applied Computer Science (SGSOACS 2025), 2831, XX, 138, Wien, Austria. https://link.springer.com/book/9783032148155
 © 2025 Vittorio Stile - Licensed under CC BY 4.0.
 ```
 
-or
+or Ph.D. thesis attribution
 ```
 This material reuses data and methods from this Ph.D. Dissertation:
-Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation”. Ph.D. dissertation, Universitas Mercatorum, Roma.
+Stile, V. (2026). “AI-generated Deepfakes: Detection and Bias Analysis”. Ph.D. dissertation, Universitas Mercatorum, Roma, Italy.
+© 2026 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
+or GitHub repository attribution
+```
+This material reuses data and methods from this work:
+Stile, V. (2025). Deepfake Attribute Detection – A Project on Attribute-Aware Detection and Bias Analysis. GitHub repository. https://github.com/vstile/deepfake-attribute-detection
 © 2025 Vittorio Stile - Licensed under CC BY 4.0.
 ```
 
